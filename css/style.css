@@ -457,7 +457,7 @@ input[id="textarea"] {
   }
 
   .project-textarea {
-    grid-column: 3 / 6;
+    grid-column: 1 / 6;
     grid-row: 3;
     margin-left: 5rem;
   }
