@@ -466,7 +466,6 @@ input[id="textarea"] {
     grid-column: 1 / 6;
     grid-row: 4;
     display: flex;
-    justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
   }
