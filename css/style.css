@@ -466,7 +466,7 @@ input[id="textarea"] {
     grid-column: 1 / 6;
     grid-row: 4;
     display: flex;
-    justify-content: space-around;
+    margin-left: 0.5rem;
     flex-direction: row;
     flex-wrap: wrap;
   }
@@ -475,6 +475,6 @@ input[id="textarea"] {
     grid-row: 5;
   }
   .clip > video {
-    max-width: 950px;
+    max-width: 800px;
   }
 }
