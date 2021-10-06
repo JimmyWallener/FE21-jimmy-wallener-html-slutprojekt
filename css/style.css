@@ -471,7 +471,7 @@ input[id="textarea"] {
     flex-wrap: wrap;
   }
   .video {
-    grid-column: 2 / 5;
+    grid-column: 1 / 4;
     grid-row: 5;
   }
   .clip > video {
