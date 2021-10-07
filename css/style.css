@@ -58,6 +58,7 @@ a {
   align-items: center;
   justify-content: center;
   list-style-type: none;
+  z-index: 1;
 }
 .nav-bar > ul > li {
   margin-left: 2vw;
@@ -470,10 +471,10 @@ input[id="textarea"] {
     flex-wrap: wrap;
   }
   .video {
-    grid-column: 2 / span 2;
+    grid-column: 1 / span 2;
     grid-row: 5;
   }
   .clip > video {
-    max-width: 800px;
+    max-width: 700px;
   }
 }
